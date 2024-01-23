@@ -1,5 +1,5 @@
-# storyspace
-Storyspace
+storyspace
+# Storyspace
 
 Based on "Storyspace" at https://github.com/NCSU-Libraries/storyspace?tab=readme-ov-file
 
